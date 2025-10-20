@@ -16,7 +16,7 @@
 
 - ✨ Student Of life :)
 - 🌱 I’m Currently Learning Many Things, I Believe That Everyday Is A Learning Opportunity ...
-- ✍ I Write Technical Blogs, You Can Visit My Blog Site At [DEV](https://dev.to/theak).
+- ✍ I Write Technical Blogs, You Can Visit My Blog Site At [DEV](https://dev.to/theak)
 - ❤ Contributing To Open Source.
 <!--End Intro-->
 
